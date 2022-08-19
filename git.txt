@@ -1,0 +1,4 @@
+cd C:\work_n\projects\git\@repo\etcrepo1\etcrepo1
+git add .
+git commit -m "t"
+git push origin master
